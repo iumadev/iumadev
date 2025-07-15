@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, my name is Irene Úbeda
 
-<!--
-**iumadev/iumadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a Fullstack Developer focused on creating intuitive, human-centered digital experiences.  
+💡 I believe in building technology that improves everyday life — accessible, meaningful and scalable.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Learn more about me
+
+- 🔭 Currently working on a personal AI assistant project for elderly care  
+- 💬 Passionate about accessibility, UX, and ethical technology  
+- 🌱 Always learning and experimenting with new tools and ideas  
+- 🧩 Love bringing structure and creativity together through design and code  
+
+---
+
+## 🛠️ Skills
+
+---
+
+## 🌐 Find me at
+
+---
+
+## 📬 Contact me
+
+📩 Email: iumadevlp@gmail.com / iumadev@hotmail.com
+🌍 Portfolio: [ireneubeda.dev](https://ireneubeda.dev)
+
+
+
