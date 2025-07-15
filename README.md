@@ -1,4 +1,4 @@
-# 👋 Hi there, my name is Irene Úbeda
+# 👋 Hi there, my name is Irene Úbeda Maillo
 
 🎯 I'm a Fullstack Developer focused on creating intuitive, human-centered digital experiences.  
 💡 I believe in building technology that improves everyday life — accessible, meaningful and scalable.  
